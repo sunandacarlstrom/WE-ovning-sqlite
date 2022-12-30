@@ -1,3 +1,3 @@
 # WE-ovning-sqlite
 
-Skapar databas till min WestcoastEducation applikation.
+Skapar en databas(Sqlite) till min Westcoast Education applikation.
