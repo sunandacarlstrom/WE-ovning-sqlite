@@ -1,4 +1,4 @@
-# Övning: databashantering 
+# Övning: Databashantering 
 
 Skapat en sida med kurser som Westcoast Education (fiktivt projekt) tillhandahåller. Dessa kurser är hämtade från en databas. 
 
